@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/feed_tab"
+        icon="@drawable/ic_feed"
+        title="Feed" />
+
+    <tab
+        id="@+id/news_tab"
+        icon="@drawable/ic_news"
+        title="News" />
+
+    <tab
+        id="@+id/profile_tab"
+        icon="@drawable/ic_profile"
+        title="Profile" />
+</tabs>
